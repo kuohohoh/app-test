@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/home/rhodonite22/.pyenv/versions/inflearn/bin/python",
+  "jupyter.pythonPath": "/home/rhodonite22/.pyenv/versions/inflearn/bin/python",
+  "jupyter.kernel.defaultKernel": "inflearn"
+}
